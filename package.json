@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/renatodev/video-maker/issues"
   },
-  "homepage": "https://github.com/renatodev/video-maker#readme"
+  "homepage": "https://github.com/renatodev/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
