@@ -126,7 +126,7 @@ async function robot() {
       }
     }
 
-    const youtubeResponse = await yputube.videos.insert(requestParameters, {
+    const youtubeResponse = await youtube.videos.insert(requestParameters, {
       onUploadProgress: onUploadProgress
     })
 
